@@ -15,4 +15,4 @@ CARA MENGGUNAKAN :
 6. web Anda sudah siap digunakan dan dimodifikasi.
 7. Untuk menjalankan secara localhost ketik "jekyll serve" di command prompt.
 8. Ketik http://127.0.0.1:4000/ di web browser Anda.
-9. Informasi lebih lanjut tentang Jekyll silahkan kunjungi website (jekyllrb.com)[https://jekyllrb.com/].
+9. Informasi lebih lanjut tentang Jekyll silahkan kunjungi website [jekyllrb.com](https://jekyllrb.com/).
