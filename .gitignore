@@ -1,0 +1,9 @@
+# Jekyll-portable-az
+
+public/
+mydoc
+*.zip
+App.7z
+App/Git
+App/Ruby
+App/RubyDevKit
